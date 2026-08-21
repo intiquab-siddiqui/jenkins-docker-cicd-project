@@ -541,11 +541,7 @@ Automated builds
 Automated deployments
 Continuous integration
 Continuous delivery/deployment workflow
-💼 Interview Explanation
 
-If asked to explain this project in an interview:
-
-I built an automated CI/CD pipeline for a Python Flask application using GitHub, Jenkins, Docker, and AWS EC2. I containerized the Flask application using a Dockerfile and created a Jenkins declarative pipeline with stages for source code checkout, Docker image building, and container deployment. I configured a GitHub Webhook so every push to the main branch automatically triggers Jenkins. Jenkins builds a new Docker image, removes the previous container, and starts a new container with the latest application version. I validated the deployment using curl and by accessing the application through the EC2 public IP in a web browser.
 
 🔮 Future Improvements
 
