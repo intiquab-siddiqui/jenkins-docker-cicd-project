@@ -581,3 +581,22 @@ Docker Deployment: WORKING ✅
 Browser Application: WORKING ✅
 
 
+---
+
+# 📸 Project Screenshots
+
+## Jenkins Pipeline — Successful Build
+
+![Jenkins Pipeline Success](screenshots/jenkins-success.png)
+
+## GitHub Webhook — Successful Trigger
+
+![GitHub Webhook](screenshots/github-webhook.png)
+
+## Docker Container Running
+
+![Docker Container](screenshots/docker-ps.png)
+
+## Flask Application — Browser Verification
+
+![Flask Application](screenshots/application.png)
